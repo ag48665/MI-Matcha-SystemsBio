@@ -1,0 +1,9 @@
+compound_id,compound_name,compound_group,abbreviation,notes
+CMP001,Epigallocatechin gallate,Catechin,EGCG,Major catechin in matcha
+CMP002,Caffeine,Alkaloid,CAF,Purine alkaloid and stimulant
+CMP003,L-theanine,Amino acid,THE,Non-protein amino acid
+CMP004,Epigallocatechin,Catechin,EGC,Tea catechin
+CMP005,Epicatechin gallate,Catechin,ECG,Tea catechin
+CMP006,Epicatechin,Catechin,EC,Tea catechin
+CMP007,Catechin,Catechin,CAT,Flavan-3-ol
+CMP008,Gallic acid,Phenolic acid,GA,Phenolic compound
